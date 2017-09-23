@@ -1,2 +1,2 @@
-# temalabor
-Automatikus Tesztelés Témalabor
+# Automatikus Tesztelés Témalabor
+Ez itt a témalabor repository
